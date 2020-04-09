@@ -1,0 +1,2 @@
+rootProject.name='Fragment Animation Demo'
+include ':app'
